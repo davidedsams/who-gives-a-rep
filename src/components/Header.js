@@ -6,6 +6,7 @@ class Header extends Component {
         return (
             <header>
                 <nav>
+                    <h1>Who Gives A Rep?</h1>
                     <Link></Link>
                 </nav>
             </header>
